@@ -15,25 +15,40 @@ Create a calculator using a class that performs:
 - Multiplication  
 - Division  
 
-Input: `a`, `b`, and operation choice (1–4)  
-Output: Result of the operation.
+Input: 1. Add
+       2. Subtract
+       3. Multiply
+       4. Divide
+       Enter first number: 77
+      Enter second number: 88
+      Enter choice (1-4): 3
+
+Output: Result: 6776.0
+
 
 ---
 
 ### **Problem–2 → Program-2.py**
 Given an integer `a`, generate a series:
 
+Input: Enter a number: 8  
+Output: Odd number series: [1, 3, 5, 7, 9, 11, 13, 15]
+
 ---
 
 ### **Problem–3 → Program-3.py**
 Given an integer `a`, generate a conditional odd series:
 
+Input: Enter a number: 9
+Output: Conditional odd series: [1, 3, 5, 7, 9, 11, 13, 15, 17]
 ---
 
 ### **Problem–4 → Program-4.py**
 From a list of numbers, count how many elements are multiples of:
 `1 to 9`
 
+Input: Enter numbers separated by space: 5  
+Output: Multiples count: {1: 1, 2: 0, 3: 0, 4: 0, 5: 1, 6: 0, 7: 0, 8: 0, 9: 0}
 ---
 
 ## 🛠 Technologies Used
